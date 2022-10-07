@@ -21,7 +21,7 @@ Option Explicit
 ' on system32 by default.
 '
 ' http://www.popbill.com
-' Author : Choi sh (code@linkhubcopr.com)
+' Author : Choi sh (code@linkhubcorp.com)
 ' Written : 2022-10-07
 '
 ' Thanks for your interest.
